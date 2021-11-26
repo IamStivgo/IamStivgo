@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @IamStivgo
+- 👀 I’m interested in Web Developer, Data Science
+- 🌱 I’m currently learning Front End Frameworks
