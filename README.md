@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @IamStivgo
 - 👀 I’m interested in Web Developer, Data Science
-- 🌱 I’m currently learning Front End Frameworks
+- 🌱 I’m currently work with Front End Frameworks (React.js, Next.js) and Back End Frameworks(Spring Boot, Node.js) 
